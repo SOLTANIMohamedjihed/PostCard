@@ -1,0 +1,18 @@
+---
+title: "SOLTANI Mohamed Jihed"
+image: "mohamedjihed.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mohamed-jihed-soltani-98a196103/"
+  - label: Twitter
+    url: "https://twitter.com/MohamedjihedSO1"
+  - label: GitHub
+    url: "https://github.com/SOLTANIMohamedjihed"
+
+output:
+  postcards::jolla
+---
+
+I am Analytic & data analyst living in Tunis.tunisia.
+Currently I'm still looking for a job. I love talking about sports,science & technology
+
