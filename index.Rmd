@@ -1,6 +1,7 @@
 ---
 title: "SOLTANI Mohamed Jihed"
 image: "mohamedjihed.jpg"
+
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/mohamed-jihed-soltani-98a196103/"
@@ -8,11 +9,24 @@ links:
     url: "https://twitter.com/MohamedjihedSO1"
   - label: GitHub
     url: "https://github.com/SOLTANIMohamedjihed"
+  - label: CV
+    url: "https://www.emploi.nat.tn/fo/Fr/dynamique/cvcandidat/upload/fichiers_cv/659941.pdf"
+  - label: Video CV
+    url: "https://www.linkedin.com/posts/activity-6817415539401478144-V6kt"
+  - label: Diplomes
+    url: "https://drive.google.com/drive/folders/19X1VgKG2TbrDJWCn2V5YqWKI1srVlXGM?usp=sharing"
+  - label: FingerPrint
+    url: "https://launchpad.net/~fingerprint/+archive/ubuntu/fingerprint-gui"
+  - label: Hobbies
+    url: "https://www.youtube.com/watch?v=j_V6PTcCQCc"
+  - label: Skype
+    url: "https://join.skype.com/invite/Jz0QHyOp4OwZ"
+
+
 
 output:
   postcards::jolla
 ---
 
-I am Analytic & data analyst living in Tunis.tunisia.
+I am Analytic & data analyst living in Tunis.Tunisia.
 Currently I'm still looking for a job. I love talking about sports,science & technology
-
