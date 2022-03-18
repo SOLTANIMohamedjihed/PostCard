@@ -20,7 +20,7 @@ links:
   - label: Hobbies
     url: "https://www.youtube.com/watch?v=j_V6PTcCQCc"
   - label: Skype
-    url: "https://join.skype.com/invite/Jz0QHyOp4OwZ"
+    url: "https://join.skype.com/invite/HeIl9ZU2ADzZ"
 
 
 
